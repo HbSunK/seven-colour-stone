@@ -1,0 +1,23 @@
+{
+  "name": "seven-color-stone",
+  "version": "1.0.0",
+  "description": "基于webpack5、vue3的单页面（多子项目）应用",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HbSunK/seven-colour-stone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HbSunK/seven-colour-stone/issues"
+  },
+  "homepage": "https://github.com/HbSunK/seven-colour-stone#readme",
+  "dependencies": {
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.1"
+  }
+}
